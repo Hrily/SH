@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "341122871053",
+    "firebase_url": "https://shapp-db97d.firebaseio.com",
+    "project_id": "shapp-db97d",
+    "storage_bucket": "shapp-db97d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341122871053:android:dfb718916ca99f53",
+        "android_client_info": {
+          "package_name": "com.hrily.sh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341122871053-9ncjdjv72qscondakclbui6l7fnugakr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hrily.sh",
+            "certificate_hash": "FD5E00C53CD1919F6C9423F1BEBA5AD7E1EF0E63"
+          }
+        },
+        {
+          "client_id": "341122871053-72oph7fa9vtgm55vbe87h53esto5pq82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7qBCT3yF3OZhiPARxfnt-2Q3pXilNXCY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341122871053-72oph7fa9vtgm55vbe87h53esto5pq82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_69cb9c849dda46e135b3158696e749fb16620978.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_c855f7265f79479061dc23b4f26ea2a28bf9d524.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.0.2_2b833f24785da23e4abb5e700a690d87555407b4.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9663366e1e6f9078d60c2701090c80e9fb644a36">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.0.1_2c3948e9f1b133aa210059bd823439a10aa81690.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/glide-3.5.2_604eabbe2a6dd5ec20f9b4f95a762415e6b3ddf6.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_e5e4237d8c980838a1fc5cbbd2610e1a1e71f682.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_f0f450c6d3db0306fa0e4be9893c5521af85d295.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="93779beb83069c13f278b652b2206f1f24850705">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.0.1_fbc42a64d5349c044b3ce7d14db954ce19ca3f29.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.2_9ad09474d2be60c6a04bd570728dac2b1dd9ca92.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12_f3ec76e856194a4d97f705e6326520bb5ebe2b0e.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.2_5c96f7f52401374c41ae8b638a982fb2c6bda29e.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.2_7e8dbd1e1ba093d8b8cbd4208c6e77c50530f566.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.4.0/f00bc767918ad9c89e5c13e25706d033a58e13c2/firebase-client-android-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.4.0_aae8bc7928c970b8a4ad461816a1090f286b02a7.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.2_68831324c401ef9c2974088881ab13a587f4c211.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.0.2_933783c95f4e2341b764adf480fd0bb1eb9f00d4.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.2_1cf64c9e9b8e560f59c228fa1ee90cb8ed6f4b3e.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_e81917d974a234c8b34d30eaa8ad0cd66d1ba3b5.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_36193475643fd9d048921cc70a04df70e82a7518.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-database-0.4.0_ffaa14a2cf323667278d5163c5751c15b61ecbad.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_ec0d43c2d1fd57256c65b544e57c2b4d85e91483.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.2_fdc0cba39b19e4e78f458eeb4e8693c91a8a56a6.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-9.0.2_d02d5a9adf1577f6f39fe3b5f72f4bef4be56f95.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_8331e0cff7de7512134ea2ad6a7eba878b4c5024.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_3eca07e34c1c035ddb8c65248598a19b767d7dd2.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.0.2_df0a5029a153de15a00df6b7a324a05cc8507aee.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.0.2_4d0c449fe2f007c3e4beeb3cebaf67b80bb588e8.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.2_292ec9ae5ad91da4995d10cf23b4a41f434313ae.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.4.0/558e074f136fee609b8758480ecd00e286595137/firebase-client-jvm-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.4.0_83cb8e560316c639bb978a2d02a3745bb58631b8.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.0.2_7de7e2b15cef2b45aa20a5f0113f3c2c319fa264.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_b23d56d5f4c8f0132792e58798c4c19b37e077ee.jar" />
+    </item>
+    <item
+        jar="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/hrishi/AndroidStudioProjects/SH2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_f5ad286d1e88abb2a69965110c6517f923c45f0a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hrily.sh.ConnectActivity"
+    android:background="@color/colorPrimary">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_below="@+id/toolbarShadow"
+        android:layout_marginTop="0dp"
+        android:layout_height="4dp"
+        android:background="@drawable/toolbar_dropshadow" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin" >
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/conn_txt"
+        android:backgroundTint="#ffffff"
+        android:hint="Enter Your Friend&apos;s Email"
+        android:textColor="#ffffff"
+        android:inputType="textEmailAddress" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:layout_below="@id/conn_txt"
+        android:layout_marginTop="8dp"
+        android:id="@+id/conn_btn"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/no_friend"
+        android:id="@+id/no_friend_txt"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffffff"
+        android:visibility="invisible" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Resend Mail"
+            android:id="@+id/resend"
+            android:background="@color/colorPrimaryDark"
+            android:textColor="#ffffff"
+            android:padding="@dimen/activity_horizontal_margin"
+            android:visibility="gone"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/no_friend_txt"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pass_info"
+        android:id="@+id/pass_info"
+        android:layout_marginTop="12dp"
+        android:layout_below="@+id/conn_btn"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#ffffff"
+        android:visibility="gone" />
+
+        </RelativeLayout>
+
+</RelativeLayout>

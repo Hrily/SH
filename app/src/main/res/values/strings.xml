@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SH</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="no_friend">Your friend has not connected yet.\nCome back after some time...</string>
+    <string name="pass_info">Pass is present in the email you sent to your friend or sent to you by your friend</string>
+    <string name="inv_sub">Invitation to join SH app</string>
+    <string name="pass_set">Please set up a new PassCode for  the app...</string>
+
+    <string name="action_exit">Exit</string>
+</resources>
